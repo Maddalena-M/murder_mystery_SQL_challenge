@@ -1,2 +1,10 @@
-# murder_mystery_SQL_challenge
- Murder Mystery SQL Challenge
+# Murder Mystery SQL Challenge
+
+##Solutions
+
+---
+SELECT description from crime_scene_report
+WHERE date=20180115 
+AND city="SQL City" 
+AND type=”murder”
+---
