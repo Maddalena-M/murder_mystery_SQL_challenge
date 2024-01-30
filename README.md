@@ -1,6 +1,8 @@
 # Murder Mystery SQL Challenge
 
-##Solutions
+[Try the challenge](https://mystery.knightlab.com/)
+
+## Solutions
 
 ```
 SELECT description from crime_scene_report
